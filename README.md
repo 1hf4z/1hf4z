@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Ihfaz👋
 
 <!--
 **1hf4z/1hf4z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
